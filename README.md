@@ -1,6 +1,6 @@
 # AI-goorm-project2
 
-https://www.kaggle.com/competitions/jigsaw-agile-community-rules
+🌐 [대회 소개 페이지](https://www.kaggle.com/competitions/jigsaw-agile-community-rules)
 
 # 🧠 Jigsaw - Agile Community Rules Classification
 
